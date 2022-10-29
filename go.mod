@@ -1,4 +1,4 @@
-module github.com/xuri/excelize/v2
+module github.com/i17c/excelize/v2
 
 go 1.16
 
